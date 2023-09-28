@@ -1,0 +1,13 @@
+h1 {
+    border: 2px #eee solid;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+}
+/* Custom CSS for sticky footer */
+.footer {
+    background-color: #2f353b; /* Add your desired background color */
+    color: #ffffff; /* Add your desired text color */
+    text-align: center;
+  }
+    
